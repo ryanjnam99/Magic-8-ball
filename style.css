@@ -1,0 +1,41 @@
+.ball {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    margin-top: 30%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.triangle {
+    background-color: black;
+    height: 200px;
+	border-left: 150px solid transparent;
+	border-right: 150px solid transparent;
+	border-top: 300px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 300px; 
+}
+
+.eye {
+    height: 200px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    margin-bottom: 450px;
+    margin-left: 50px;
+}
+
